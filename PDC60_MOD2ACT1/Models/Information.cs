@@ -6,6 +6,7 @@ namespace PDC60_MOD2ACT1.Models
 {
     class Information
     {
+        // David
         public int StudentID { get; set; }
         public string Name { get; set; }
         public string CourseCode { get; set; }
